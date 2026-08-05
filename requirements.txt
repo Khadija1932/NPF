@@ -1,1 +1,7 @@
-
+Python: 3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) 
+Notebook: 7.2.2
+NumPy: 2.0.2
+Scipy: 1.14.1
+Matplotlib: 3.9.2
+Skimage: 0.24.0
+Numba: 0.60.0
